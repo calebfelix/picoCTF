@@ -3,7 +3,6 @@
 $ ./ltdis.sh static
 ```
 
-</br>
 - The flag is in `static.ltdis.strings.txt`
 
 - run the One Line Script(OLS) to get the flag
