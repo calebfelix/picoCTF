@@ -1,0 +1,1 @@
+Add this line at the end of the code `decode_secret(bezos_cc_secret)` which will give out the flag
