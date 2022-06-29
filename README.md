@@ -9,6 +9,7 @@
 ├── Binary-Exploitation
 │   └── Stonks
 ├── Cryptography
+│   ├── Easy_Peasy
 │   ├── Mind_your_Ps_and_Qs
 │   └── Mod_26
 ├── Forensics
@@ -28,5 +29,5 @@
 └── Web-Exploitation
     └── GET_aHEAD
 
-21 directories
+22 directories
 ```
