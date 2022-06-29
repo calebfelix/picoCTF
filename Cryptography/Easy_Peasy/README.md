@@ -1,6 +1,6 @@
 # Easy Peasy
 > 40 points 
-</br>
+
  ## Description
 A one-time pad is unbreakable, but can you manage to recover the flag? (Wrap with picoCTF{}): otp.py
 ## Hints
@@ -10,8 +10,9 @@ A one-time pad is unbreakable, but can you manage to recover the flag? (Wrap wit
 
 ## Solution
 - Run `tinker.py`
-</br>
+
 ```python
+
 from pwn import *
 
 KEY_LEN = 50000
