@@ -1,8 +1,8 @@
 # Matryoshka doll
 > 30 points 
-</br>
- ## Description
- Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image:
+
+## Description
+Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image:
 ## Hints
 <ol>
     <li>Wait, you can hide files inside files? But how do you find them?</li>
