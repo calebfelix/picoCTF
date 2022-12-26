@@ -31,7 +31,8 @@
 │   └── Transformation
 └── Web-Exploitation
     ├── Cookies
-    └── GET_aHEAD
+    ├── GET_aHEAD
+    └── Insp3ct0r
 
-26 directories
+27 directories
 ```
