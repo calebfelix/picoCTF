@@ -13,6 +13,7 @@
 │   ├── Mind_your_Ps_and_Qs
 │   └── Mod_26
 ├── Forensics
+│   ├── Glory_of_the_Garden
 │   ├── information
 │   ├── Matryoshka_doll
 │   └── tunn3l_v1s10n
@@ -32,5 +33,5 @@
     ├── Cookies
     └── GET_aHEAD
 
-25 directories
+26 directories
 ```
