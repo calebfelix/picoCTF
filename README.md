@@ -16,8 +16,10 @@
 │   ├── Glory_of_the_Garden
 │   ├── information
 │   ├── Matryoshka_doll
+│   ├── Secret_of_the_Polyglot
 │   └── tunn3l_v1s10n
 ├── General-Skills
+│   ├── Binary_Search
 │   ├── Magikarp_Ground_Mission
 │   ├── Nice_netcat
 │   ├── Obedient_Cat
@@ -37,5 +39,5 @@
     ├── Insp3ct0r
     └── Unminify
 
-31 directories
+33 directories
 ```
