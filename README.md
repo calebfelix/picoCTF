@@ -14,11 +14,13 @@
 │   ├── Mind_your_Ps_and_Qs
 │   └── Mod_26
 ├── Forensics
+│   ├── CanYouSee
 │   ├── Glory_of_the_Garden
 │   ├── information
 │   ├── Matryoshka_doll
 │   ├── Secret_of_the_Polyglot
-│   └── tunn3l_v1s10n
+│   ├── tunn3l_v1s10n
+│   └── Verify
 ├── General-Skills
 │   ├── Binary_Search
 │   ├── Magikarp_Ground_Mission
@@ -26,6 +28,7 @@
 │   ├── Obedient_Cat
 │   ├── Python_Wrangling
 │   ├── Static_aint_always_noise
+│   ├── Super_SSH
 │   ├── Tab_Tab_Attack
 │   ├── Time_Machine
 │   └── Wave_a_flag
@@ -40,5 +43,5 @@
     ├── Insp3ct0r
     └── Unminify
 
-34 directories
+37 directories
 ```
