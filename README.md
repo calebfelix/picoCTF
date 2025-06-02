@@ -41,7 +41,8 @@
     ├── Cookies
     ├── GET_aHEAD
     ├── Insp3ct0r
+    ├── Scavenger_Hunt
     └── Unminify
 
-37 directories
+38 directories
 ```
