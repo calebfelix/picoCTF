@@ -16,7 +16,7 @@ Download Python script
 
 ## Solution
 - remove the indentation of the print line.
-- just run the code with both the files in the same directory `python3 fixme1.py`
+- just run the code with `python3 fixme1.py`
 ## Flag
 
 `flag.txt`
